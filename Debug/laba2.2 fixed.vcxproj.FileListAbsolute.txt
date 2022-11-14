@@ -1,0 +1,4 @@
+C:\Users\rikud\source\repos\laba2.2 fixed\Debug\laba2.2 fixed.vcxproj.AssemblyReference.cache
+C:\Users\rikud\source\repos\laba2.2 fixed\Debug\laba2.2 fixed.exe
+C:\Users\rikud\source\repos\laba2.2 fixed\Debug\laba2_2_fixed.Form1.resources
+C:\Users\rikud\source\repos\laba2.2 fixed\Debug\laba2.2 fixed.vcxproj.GenerateResource.cache
