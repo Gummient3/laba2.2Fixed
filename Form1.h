@@ -379,6 +379,7 @@ namespace CppCLRWinformsProjekt {
 			this->Name = L"Form1";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
 			this->Text = L"Form1";
+			this->Load += gcnew System::EventHandler(this, &Form1::Form1_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
@@ -440,5 +441,7 @@ private: System::Void button13_Click(System::Object^ sender, System::EventArgs^ 
 	value = 0;
 }
 
+private: System::Void Form1_Load(System::Object^ sender, System::EventArgs^ e) {
+}
 };
 }
